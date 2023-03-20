@@ -1,0 +1,5 @@
+4. How do you get all files with on the 3rd place an r, g or i?
+A) Ls ?3[rgi]*
+B) Ls *[rgi]*
+C) Ls [)i*]
+D) Ls ??[rgi]*

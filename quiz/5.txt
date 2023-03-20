@@ -1,0 +1,5 @@
+5. What command do you have to use to go to the parent directory?
+A) Cd -
+B) Cd /up
+C) Cd ~
+D) Cd )

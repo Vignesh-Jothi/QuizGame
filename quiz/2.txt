@@ -1,5 +1,5 @@
-2. What is the name of Thor’s hammer?
-A) Vanir
-B) Mjolnir
-C) Aesir
-D) Norn
+2. With what command you can see what folder you are in?
+A) Whereami
+B) Place
+C) Map
+D) Pwd

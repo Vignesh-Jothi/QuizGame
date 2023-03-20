@@ -1,5 +1,5 @@
-3. In the Incredible Hulk, what does Tony tell Thaddeus Ross at the end of the film?
-A) That he wants to study The Hulk
-B) That he knows about S.H.I.E.L.D.
-C) That they are putting a team together
-D) That Thaddeus owes him money
+3. How do you delete a file?
+A) Rm filename
+B) Dl filename
+C) Touch filename
+D) Less filename
